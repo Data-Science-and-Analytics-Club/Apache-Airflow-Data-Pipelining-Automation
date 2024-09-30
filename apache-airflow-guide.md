@@ -80,6 +80,7 @@ Use the following credentials:
 
 For stock data, we'll use the Alpha Vantage API:
 
+- API: https://www.alphavantage.co/support/#api-key
 - Link: https://www.alphavantage.co/documentation/
 - API Key: ODGUTFT1TU5LHI4O
 
