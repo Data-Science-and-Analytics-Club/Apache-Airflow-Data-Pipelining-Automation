@@ -10,6 +10,9 @@ Apache Airflow is an open-source platform designed to programmatically author, s
 ## What is a Data Pipeline?
 ![image](https://github.com/user-attachments/assets/38401153-5d84-4e6f-bd45-267e6fdd2352)
 
+## What does Apache Airflow do?
+Airflow is Worflow Management Tool highly customizable according to our needs.
+Example: Sending Birthday Emails to friends on their Birthdays.
 
 ## Key Concepts
 
