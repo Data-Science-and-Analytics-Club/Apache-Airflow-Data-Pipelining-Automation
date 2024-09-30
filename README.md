@@ -4,6 +4,9 @@
 
 Apache Airflow is an open-source platform designed to programmatically author, schedule, and monitor workflows. It's a powerful tool for orchestrating complex computational workflows and data processing pipelines.
 
+![image](https://github.com/user-attachments/assets/031e8f82-2ffe-4fbd-85b6-5fd9eb3482b5)
+
+
 ## Key Concepts
 
 ### 1. DAGs (Directed Acyclic Graphs)
