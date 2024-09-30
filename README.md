@@ -23,6 +23,8 @@ DAGs are the core concept in Airflow. They represent a collection of tasks you w
 - **Directed**: Each task has a specific direction of data flow.
 - **Acyclic**: The tasks don't create a cycle; they have a clear beginning and end.
 - **Graph**: The entire workflow is represented as a graph structure.
+![image](https://github.com/user-attachments/assets/ae5febea-6b61-49ca-a312-57383f2e2b7c)
+
 
 ### 2. Operators
 
