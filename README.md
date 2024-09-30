@@ -4,7 +4,12 @@
 
 Apache Airflow is an open-source platform designed to programmatically author, schedule, and monitor workflows. It's a powerful tool for orchestrating complex computational workflows and data processing pipelines.
 
-![image](https://github.com/user-attachments/assets/031e8f82-2ffe-4fbd-85b6-5fd9eb3482b5)
+## What is ETL?
+![image](https://github.com/user-attachments/assets/9906eafa-47e8-4397-963b-03d29f16be13)
+
+## What is a Data Pipeline?
+![image](https://github.com/user-attachments/assets/5adb131c-048a-4aba-a9a2-4b72c65db250)
+
 
 
 ## Key Concepts
