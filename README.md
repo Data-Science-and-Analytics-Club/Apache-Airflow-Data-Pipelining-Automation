@@ -8,8 +8,7 @@ Apache Airflow is an open-source platform designed to programmatically author, s
 ![image](https://github.com/user-attachments/assets/9906eafa-47e8-4397-963b-03d29f16be13)
 
 ## What is a Data Pipeline?
-![image](https://github.com/user-attachments/assets/5adb131c-048a-4aba-a9a2-4b72c65db250)
-
+![image](https://github.com/user-attachments/assets/38401153-5d84-4e6f-bd45-267e6fdd2352)
 
 
 ## Key Concepts
